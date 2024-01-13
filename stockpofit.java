@@ -67,6 +67,8 @@ class profit{
   public class stockpofit {
 
     public static void main(String[] args) {
+
+        System.out.println("------------------------ stock profit---------------------");
         profit p=new profit();
         int [] array=new int[4];
         Scanner inp=new Scanner(System.in);
